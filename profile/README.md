@@ -19,7 +19,7 @@
 
 | Game | Gameplay |
 | :--- | :---: |
-| **[Blackwater](https://avivajpeyi.itch.io/blackwater)** — Sail the high seas, battle enemy ships, and survive the waves in this cannon-firing naval adventure. | <a href="https://avivajpeyi.itch.io/blackwater"><img src="docs/images/blackwater-cover.gif" width="280" alt="Blackwater gameplay"></a> |
+| **[Blackwater](https://avivajpeyi.itch.io/blackwater)** — Sail the high seas, battle enemy ships, and survive the waves in this cannon-firing naval adventure. | <a href="https://avivajpeyi.itch.io/blackwater"><img src="https://raw.githubusercontent.com/kickflip-games/ludum_dare_60/main/docs/images/blackwater-cover.gif" width="280" alt="Blackwater gameplay"></a> |
 | **[Light Runner](https://avivajpeyi.itch.io/light-runner)** — Race through a neon arena, collecting points while painting glowing trails of light. | <a href="https://avivajpeyi.itch.io/light-runner"><img src="https://raw.githubusercontent.com/avivajpeyi/avivajpeyi.github.io/main/media/games/light-runner.gif" width="280" alt="Light Runner gameplay"></a> |
 | **[Moonward](https://avivajpeyi.itch.io/moonward)** — A little precision platformer about getting all the way to the top. | <a href="https://avivajpeyi.itch.io/moonward"><img src="https://raw.githubusercontent.com/avivajpeyi/avivajpeyi.github.io/main/media/games/moonward.gif" width="280" alt="Moonward gameplay"></a> |
 | **[Wishbone](https://avivajpeyi.itch.io/wishbones)** — One button. Full power. Smash some skulls in this local-versus game. | <a href="https://avivajpeyi.itch.io/wishbones"><img src="https://raw.githubusercontent.com/avivajpeyi/avivajpeyi.github.io/main/media/games/wishbones.gif" width="280" alt="Wishbone gameplay"></a> |
